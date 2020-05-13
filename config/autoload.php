@@ -5,6 +5,6 @@
  */
 ClassLoader::addClasses(array
 (
-	'NewsManualSort\ModuleNewsList'             => 'system/modules/news-manual-sort/NewsManualSort.php',
+	'NewsManualSort\ModuleNewsList'             => 'system/modules/contao-news-manual-sort/NewsManualSort.php',
 
 ));
